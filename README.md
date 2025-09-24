@@ -69,11 +69,6 @@ Shoe_Size-Prediction/
 
 ---
 
-## 📸 Screenshot (Optional)
-
-> Add a screenshot of your app running here for better presentation.
-
----
 
 ## 📌 Requirements
 
